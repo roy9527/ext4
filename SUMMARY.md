@@ -2,7 +2,7 @@
 
 * [About](./README.md)
 
-## Chap01
+## High Level Design
 
 * [1-1](./chap01/1-1.md)
 

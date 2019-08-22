@@ -6,10 +6,6 @@
     "-search",
     "search-pro",
     "-sharing",
-    "disqus",
-    "github-buttons",
-    "editlink",
-    "ga",
     "-highlight",
     "prism",
     "bibtex-indexed-cite",
@@ -27,26 +23,6 @@
     },
     "anchor-navigation-ex": {
       "showLevel": false
-    },
-    "disqus": {
-      "shortName": "gitbook-template"
-    },
-    "github-buttons": {
-      "buttons": [{
-        "user": "riskers",
-        "repo": "gitbook-template",
-        "type": "star",
-        "size": "small",
-        "count": true
-      }]
-    },
-    "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
-      "label": "Edit",
-      "multilingual": false
-    },
-    "ga": {
-      "token": "UA-131910384-3"
     },
     "prism": {
       "ignore": [

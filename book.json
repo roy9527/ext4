@@ -1,6 +1,6 @@
 {
   "title": "title",
-  "author": "",
+  "author": "kin",
   "plugins": [
     "-lunr",
     "-search",
@@ -59,7 +59,7 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "By [riskers](https://github.com/riskers)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "copyright": "小鲨鱼",
       "markdown": true,
       "update_label": "此页面修订于：",
       "update_format": "YYYY-MM-DD HH:mm:ss"
@@ -67,13 +67,5 @@
     "bibtex-indexed-cite": {
       "path": "/"
     },
-    "donate": {
-      "wechat": "https://ws1.sinaimg.cn/large/8e495e65ly1fz0myv9povj20u00u0wfr.jpg",
-      "alipay": "https://ws1.sinaimg.cn/large/8e495e65ly1fz0myv9emlj20p011idib.jpg",
-      "title": "",
-      "button": "赏",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
-    }
   }
 }
